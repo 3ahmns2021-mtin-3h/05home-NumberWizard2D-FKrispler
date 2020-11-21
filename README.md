@@ -4,7 +4,7 @@
 Wizard nuber guessing game
 
 ### Development platform: 
-(Windows, Unity 2020.1.5f1, Visual Studio Version,)
+(Windows, Unity 2020.1.5f1, Visual Studio Version 2019,)
 
 ### Target platform: 
 Desktop 
