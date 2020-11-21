@@ -1,13 +1,13 @@
 # 05home-NumberWizard2D-FKrispler
 
 ### Project description: 
-Introduction/Project summary 
+Wizard nuber guessing game
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(Windows, Unity 2020.1.5f1, Visual Studio Version,)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Desktop 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -16,7 +16,7 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Self-drawn background and UI images
 
 ### Project state: 
 incl. progress in percent
